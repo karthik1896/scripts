@@ -5,4 +5,4 @@ git clone https://github.com/karthik1896/hardware_qcom_audio_sdm660.git hardware
 git clone https://github.com/karthik1896/hardware_qcom_media_sdm660.git hardware/qcom/media/sdm660
 git clone https://github.com/karthik1896/hardware_qcom_display_sdm660.git hardware/qcom/display/sdm660
 git clone https://github.com/karthik1896/hardware_qcom_power.git hardware/qcom/power
-
+git clone https://github.com/LineageOS/android_external_ant-wireless_antradio-library.git -b lineage-17.1 external/ant-wireless/antradio-library
